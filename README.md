@@ -3,6 +3,8 @@ spring-source-code
 
 Spring事务是基于AOP环绕通知和异常通知实现的
 
+    通知包括 前置通知、后置通知、异常通知、环绕通知、运行时通知
+
 Spring事务编程式事务和声明式事务
     
     编程式事务：手动开启事务 begin rollback
