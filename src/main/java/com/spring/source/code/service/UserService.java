@@ -1,0 +1,1 @@
+package com.spring.source.code.service;/** * @author * @description * @date 2020/1/8 */public interface UserService {    void add() throws Exception;}
