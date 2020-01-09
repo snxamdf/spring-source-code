@@ -1,0 +1,1 @@
+package com.spring.source.code.service;public interface LogService {    void add();}

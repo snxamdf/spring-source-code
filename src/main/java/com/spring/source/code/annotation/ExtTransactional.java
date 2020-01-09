@@ -1,1 +1,0 @@
-package com.spring.source.code.annotation;import java.lang.annotation.*;/** * @author * @description * @date 2020/1/9 */@Target({ElementType.METHOD})@Retention(RetentionPolicy.RUNTIME)public @interface ExtTransactional {}
