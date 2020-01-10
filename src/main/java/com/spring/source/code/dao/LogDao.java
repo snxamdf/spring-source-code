@@ -1,1 +1,0 @@
-package com.spring.source.code.dao;import com.spring.source.code.ioc.ExtRepository;/** * @author * @description * @date 2020/1/9 */@ExtRepositorypublic class LogDao {    public void add(String msg) {        System.out.println("add" + msg);    }}
